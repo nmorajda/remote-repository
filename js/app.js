@@ -1,1 +1,1 @@
-console.log('Hello firm app.js');
+console.log('Hello firm');
